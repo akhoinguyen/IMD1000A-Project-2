@@ -4,7 +4,7 @@ View the site here: [KAN Cookies](https://akhoinguyen.github.io/IMD1000A-Project
 
 ---
 
-#Tools &amp; Materials
+# Tools &amp; Materials
 
 The site was coded using HTML and CSS.
 
