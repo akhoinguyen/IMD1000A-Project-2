@@ -1,1 +1,1 @@
-View the site here: [KAN Cookies](https://akhoinguyen.github.io/IMD1000A-Project-2/) or type the link: ```akhoinguyen.github.io/IMD1000A-Project-2/```
+View the site here: [KAN Cookies](https://akhoinguyen.github.io/IMD1000A-Project-2/) or type in the link: ```akhoinguyen.github.io/IMD1000A-Project-2/```
