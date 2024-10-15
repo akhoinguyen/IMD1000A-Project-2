@@ -15,3 +15,7 @@ Gallery
 2. Photo by Malidate Van: https://www.pexels.com/photo/person-using-brown-wooden-rolling-pin-784631/
 3. Photo by Ksenia Chernaya: https://www.pexels.com/photo/baking-ingredients-3952077/
 4. Photo by Jonathan Meyer: https://www.pexels.com/photo/beige-cookie-with-filling-752496/
+
+---
+
+CSS library Modulifier: https://modulifier.web-dev.tools/#responsive;images;list-group;embed;media-object;accessibility;print
