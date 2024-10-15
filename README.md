@@ -32,3 +32,4 @@ Photo by SAULO LEITE: https://www.pexels.com/photo/pizzaiolo-making-pizza-176370
 1. Video by The Vegan Corner (Youtube): https://www.youtube.com/watch?v=ySOplGZcmXY
 2. Photo by Malidate Van: https://www.pexels.com/photo/person-using-brown-wooden-rolling-pin-784631/
 3. Photo by Ksenia Chernaya: https://www.pexels.com/photo/baking-ingredients-3952077/
+4. Photo by Jonathan Meyer: https://www.pexels.com/photo/beige-cookie-with-filling-752496/
