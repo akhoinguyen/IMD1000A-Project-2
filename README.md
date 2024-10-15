@@ -9,8 +9,11 @@ View the site here: [KAN Cookies](https://akhoinguyen.github.io/IMD1000A-Project
 The site was coded using HTML and CSS.
 
 The website was hand-coded in [Atom](https://atom-editor.cc/) - an open-source code editor.
+
 Open-source CSS library by [Modulifier](https://modulifier.web-dev.tools/#responsive;images;list-group;embed;media-object;accessibility;print) developers.
+
 All photos were downloaded from [Pexels](https://www.pexels.com/) with proper attributions.
+
 Video embed was taken from YouTube with proper attribution as well.
 
 ---
