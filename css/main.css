@@ -184,6 +184,25 @@ background-color: transparent;
   margin: 40px auto 0;
 }
 
+.gallery {
+  padding: 30px;
+}
+.gallery p {
+  text-align: center;
+}
+
+.gallery-content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.gallery-item {
+  flex: 100%;
+  margin-bottom: 20px;
+  padding: 0 10px;
+    overflow: hidden;
+    max-height: 400px;
+}
 @media only screen and (min-width: 768px) {
 
   .about-image {
@@ -206,6 +225,9 @@ background-color: transparent;
     flex: 12.5%;
   }
 
+  .gallery-item {
+    flex: 50%;
+  }
 }
 
 @media only screen and (min-width: 992px) {
@@ -216,6 +238,11 @@ background-color: transparent;
 
   .about-image img {
     transform: translateY(-12.5%);
+  }
+
+  .gallery-item {
+    flex: 33.33%;
+      max-height: 200px;
   }
 
 }
