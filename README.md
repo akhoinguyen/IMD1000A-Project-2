@@ -1,3 +1,5 @@
+#Live site
+
 View the site here: [KAN Cookies](https://akhoinguyen.github.io/IMD1000A-Project-2/) or type in the link: ```akhoinguyen.github.io/IMD1000A-Project-2/```
 
 ---
@@ -17,9 +19,13 @@ Photo by Jonathan Meyer: https://www.pexels.com/photo/assorted-sugar-cookies-752
 3. Photo by Darlene Alderson: https://www.pexels.com/photo/heart-shaped-green-cookies-7016483/
 4. Photo by Marcia Salido: https://www.pexels.com/photo/stacks-of-red-velvet-cookies-in-close-up-photography-14133143/
 
-About Photo by Anna Shvets: https://www.pexels.com/photo/woman-putting-food-box-in-an-oven-12674099/
+## About
 
-Business orders Photo by SAULO LEITE: https://www.pexels.com/photo/pizzaiolo-making-pizza-17637074/
+Photo by Anna Shvets: https://www.pexels.com/photo/woman-putting-food-box-in-an-oven-12674099/
+
+## Business orders
+
+Photo by SAULO LEITE: https://www.pexels.com/photo/pizzaiolo-making-pizza-17637074/
 
 ## Gallery
 
